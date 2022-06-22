@@ -3,4 +3,16 @@
     background-color: lightskyblue;
     color: white;
     border: white solid 2px;
+    text-align: center;
+}
+
+.box2{
+    
+    height: 30px;
+    background-color: lightgreen;
+    color: white;
+    border: white solid 1px;
+    font-size: small;
+    text-align: center;
+    margin-top: 7px;
 }
